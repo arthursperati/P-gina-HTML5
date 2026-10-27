@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+}
+
+header, footer {
+    background-color: teal;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    padding: 10px;
+}
+
+main {
+    padding: 10px;
+}
+
+section, article, aside {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
